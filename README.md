@@ -35,4 +35,5 @@ ifconfig
 
 ## Resultado
 
+![image](https://github.com/user-attachments/assets/79dfe131-777e-46f4-9159-e0e6039665f6)
 
